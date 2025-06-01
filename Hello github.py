@@ -4,3 +4,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 Hello GIThub
 >>> print('Hello word')
 Hello word
+>>> 
+================================ RESTART: Shell ================================
+>>> print('by Brooklynsylar')
+by Brooklynsylar
